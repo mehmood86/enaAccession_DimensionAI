@@ -1,0 +1,8 @@
+Nr.	 enaAccession	 publication_count
+
+1	BN000065	"15"
+2	BN000066	"10"
+3	BN000067	"9"
+4	BN000068	"1"
+5	BN000069	"1"
+6	BN000070	"3"
